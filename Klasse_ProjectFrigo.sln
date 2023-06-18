@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasse_ProjectFrigo", "Klasse_ProjectFrigo\Klasse_ProjectFrigo.csproj", "{5CFC747E-852F-450C-A447-E6EA7C5DF364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CFC747E-852F-450C-A447-E6EA7C5DF364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFC747E-852F-450C-A447-E6EA7C5DF364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFC747E-852F-450C-A447-E6EA7C5DF364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFC747E-852F-450C-A447-E6EA7C5DF364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF9D2BD-8094-47F8-8328-E43A5311DE41}
+	EndGlobalSection
+EndGlobal
